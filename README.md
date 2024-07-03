@@ -20,14 +20,8 @@
 
 ### Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/sudheer-kumar-0b11b6224/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/sudheer-kumar-thati?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/sudheer_bmb" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/sudheer_bmb/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/sudheerbmb" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -68,8 +62,4 @@
 
 ---
 
-### Recent Activity:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sudheerbmb&theme=radical" alt="sudheerbmb" />
-</p>
