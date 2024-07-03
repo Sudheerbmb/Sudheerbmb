@@ -57,9 +57,12 @@
 ### My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheerbmb&show_icons=true&locale=en&theme=radical" alt="sudheerbmb" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerbmb&theme=radical" alt="sudheerbmb" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudheerbmb&show_icons=true&locale=en&layout=compact&theme=radical" alt="sudheerbmb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheerbmb&show_icons=true&locale=en&theme=radical" alt="sudheerbmb" height="180" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerbmb&theme=radical" alt="sudheerbmb" height="180" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudheerbmb&show_icons=true&locale=en&layout=compact&theme=radical" alt="sudheerbmb" height="180" width="400" />
 </p>
 
 ---
