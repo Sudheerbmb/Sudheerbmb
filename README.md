@@ -39,7 +39,7 @@
 ### Languages and Tools:
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a>
