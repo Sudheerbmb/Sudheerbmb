@@ -36,7 +36,7 @@
 ---
 
 ### Languages and Tools:
-
+<div>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> </a>
@@ -54,6 +54,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Scikit-Learn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /> </a>
 </p>
+</div>
 
 <br> 
 
