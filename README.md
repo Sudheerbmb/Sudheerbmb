@@ -55,7 +55,10 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /> </a>
 </p>
 
-<br> <!-- Add this line for spacing -->
+<br> 
+
+
+---
 
 ### My GitHub Stats:
 
