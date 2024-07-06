@@ -52,7 +52,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Scikit-Learn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img align="left" alt="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img  alt="Seaborn" width="40px"  src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /> </a>
 </p>
 </div>
 
