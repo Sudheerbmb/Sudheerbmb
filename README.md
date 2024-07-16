@@ -62,4 +62,3 @@
 [![#DAA Diaries](https://ytcards.demolab.com/?id=NgPlMRwBrwU&title=%23DAA+Diaries&lang=en&timestamp=1690180800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=594 "#DAA Diaries")](https://www.youtube.com/watch?v=NgPlMRwBrwU?si=b7QYksN87h0wsGpQ)
 [![Breast Cancer Detection Using ML](https://ytcards.demolab.com/?id=ZRLmUZ4y8EQ&title=Breast+Cancer+Detection+Using+ML&lang=en&timestamp=1690180800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1953 "Breast Cancer Detection Using ML")](https://www.youtube.com/watch?v=ZRLmUZ4y8EQ?si=mjrsewEwBdhtvzDX)
 
-![snake gif](https://github.com/Sudheerbmb/Sudheerbmb/blob/output/github-contribution-grid-snake.svg)
