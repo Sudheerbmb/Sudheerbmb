@@ -62,7 +62,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Sudheerbmb&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="XYZ" height="300" width="400" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerbmb&theme=synthwave-84&bg_color=0D1117&hide_border=true" /></p>-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerbmb&theme=synthwave-84&bg_color=0D1117&hide_border=true" /></p>
 
 
 ---
