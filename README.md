@@ -47,10 +47,10 @@
 ---
 
 ### My GitHub Stats:
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudheerbmb&show_icons=true&locale=en&theme=radical" alt="sudheerbmb" height="180" width="400" />
 
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudheerbmb&theme=radical" alt="sudheerbmb" height="180" width="420" />
