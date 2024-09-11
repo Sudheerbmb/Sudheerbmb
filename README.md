@@ -10,7 +10,7 @@
  <img src="https://komarev.com/ghpvc/?username=sudheerbmb&label=Profile%20Views&color=6e5494&style=flat-square" alt="sudheerbmb" />
 </div>
 
-### 🔭 I’m currently working on [MED 24 (Web application using Flask)](https://github.com/Sudheerbmb/MED24-Online-Medical-Care)
+### 🔭 I’m currently working on [Assistant-IA)](https://github.com/Sudheerbmb/Assistant-IA)
 
 ### 🌱 I’m currently learning **Data Engineering**
 
