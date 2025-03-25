@@ -14,7 +14,7 @@
 
 ### 🌱 I’m currently learning **Data Engineering**
 
-### 💬 Ask me about **Python, Java, HTML, CSS, MySQL, PowerBI**
+### 💬 Ask me about **GenAI , Machine Learning , Deep Learning , Natural Language Processing , Computer Vision , SQL , Python  **
 
 ### 📫 How to reach me: **sudheermsdvk@gmail.com**
 
