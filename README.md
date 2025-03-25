@@ -10,11 +10,11 @@
  <img src="https://komarev.com/ghpvc/?username=sudheerbmb&label=Profile%20Views&color=6e5494&style=flat-square" alt="sudheerbmb" />
 </div>
 
-### 🔭 I’m currently working on [Assistant-IA)](https://github.com/Sudheerbmb/Assistant-IA)
+### 🔭 I’m currently working on [Assistant-IA](https://github.com/Sudheerbmb/Assistant-IA)
 
 ### 🌱 I’m currently learning **Data Engineering**
 
-### 💬 Ask me about **GenAI , Machine Learning , Deep Learning , Natural Language Processing , Computer Vision , SQL , Python  **
+### 💬 Ask me about GenAI , Machine Learning , Deep Learning , Natural Language Processing , Computer Vision , SQL , Python  
 
 ### 📫 How to reach me: **sudheermsdvk@gmail.com**
 
