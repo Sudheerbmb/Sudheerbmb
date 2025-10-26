@@ -59,13 +59,15 @@
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" style="vertical-align:middle;" />
 </a>
-</p>
 
 
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="vertical-align:middle;" />
 </a>
+</p>
+
+
 
 
     
