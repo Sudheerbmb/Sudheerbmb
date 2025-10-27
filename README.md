@@ -68,35 +68,8 @@
 </p>
 
 
-
-### 🛠️ Languages and Tools:
-
-[![C](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Matlab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
-[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
-
-<!-- Missing icons replaced with official SVGs -->
-[![Pandas](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg)](https://pandas.pydata.org/)
-[![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)](https://seaborn.pydata.org/)
-[![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg)](https://powerbi.microsoft.com/)
-[![Hadoop](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)](https://hadoop.apache.org/)
-[![Apache Airflow](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)](https://airflow.apache.org/)
-[![Snowflake](https://upload.wikimedia.org/wikipedia/en/2/23/Snowflake_Logo.svg)](https://www.snowflake.com/)
-[![Databricks](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)](https://databricks.com/)
-    
 ---
+
 
 ### My GitHub Stats:
 
