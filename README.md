@@ -82,18 +82,19 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
-[![Seaborn](https://skillicons.dev/icons?i=seaborn)](https://seaborn.pydata.org/)
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
-[![Power BI](https://skillicons.dev/icons?i=powerbi)](https://powerbi.microsoft.com/)
-[![Hadoop](https://skillicons.dev/icons?i=hadoop)](https://hadoop.apache.org/)
 [![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
-[![Airflow](https://skillicons.dev/icons?i=airflow)](https://airflow.apache.org/)
-[![Snowflake](https://skillicons.dev/icons?i=snowflake)](https://www.snowflake.com/)
-[![Databricks](https://skillicons.dev/icons?i=databricks)](https://databricks.com/)
+
+<!-- Missing icons replaced with official SVGs -->
+[![Pandas](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg)](https://pandas.pydata.org/)
+[![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)](https://seaborn.pydata.org/)
+[![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg)](https://powerbi.microsoft.com/)
+[![Hadoop](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)](https://hadoop.apache.org/)
+[![Apache Airflow](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)](https://airflow.apache.org/)
+[![Snowflake](https://upload.wikimedia.org/wikipedia/en/2/23/Snowflake_Logo.svg)](https://www.snowflake.com/)
+[![Databricks](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)](https://databricks.com/)
     
 ---
 
