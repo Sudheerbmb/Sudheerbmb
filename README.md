@@ -99,18 +99,19 @@
 [![#DAA Diaries](https://ytcards.demolab.com/?id=NgPlMRwBrwU&title=%23DAA+Diaries&lang=en&timestamp=1690180800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=594 "#DAA Diaries")](https://www.youtube.com/watch?v=NgPlMRwBrwU?si=b7QYksN87h0wsGpQ)
 [![Breast Cancer Detection Using ML](https://ytcards.demolab.com/?id=ZRLmUZ4y8EQ&title=Breast+Cancer+Detection+Using+ML&lang=en&timestamp=1690180800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1953 "Breast Cancer Detection Using ML")](https://www.youtube.com/watch?v=ZRLmUZ4y8EQ?si=mjrsewEwBdhtvzDX)
 
-<!-- 🌟 Stylish Name Banner for Sudheer Kumar -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Sudheer+Kumar" />
-</h1>
+<<!-- 💠 Sudheer Kumar | Circular Stylish Icons -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00BFFF,100:1E90FF&height=120&section=header&text=Sudheer%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <!-- 🌀 Option 1: Gradient Circular Badge -->
+  <img src="https://img.shields.io/badge/Sudheer%20Kumar-%2300BFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=1E90FF" alt="Sudheer Kumar Badge" />
 </p>
 
-<h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Sudheer%20Kumar&width=800&height=150" />
-</h1>
+<p align="center">
+  <!-- 🌀 Option 2: Animated Circular Initials -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=250&height=250&lines=S;U;D;H;E;E;R" alt="Sudheer Icon" />
+</p>
 
-
+<p align="center">
+  <!-- 🌀 Option 3: True Circular Logo -->
+  <img src="https://svg-banners.vercel.app/api?type=rounded&text1=SK&width=150&height=150" alt="Sudheer Circular Logo" />
+</p>
