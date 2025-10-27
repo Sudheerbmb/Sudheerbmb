@@ -69,7 +69,31 @@
 
 
 
+### 🛠️ Languages and Tools:
 
+[![C](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Matlab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Scikit-Learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
+[![Seaborn](https://skillicons.dev/icons?i=seaborn)](https://seaborn.pydata.org/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![Power BI](https://skillicons.dev/icons?i=powerbi)](https://powerbi.microsoft.com/)
+[![Hadoop](https://skillicons.dev/icons?i=hadoop)](https://hadoop.apache.org/)
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
+[![Airflow](https://skillicons.dev/icons?i=airflow)](https://airflow.apache.org/)
+[![Snowflake](https://skillicons.dev/icons?i=snowflake)](https://www.snowflake.com/)
+[![Databricks](https://skillicons.dev/icons?i=databricks)](https://databricks.com/)
     
 ---
 
