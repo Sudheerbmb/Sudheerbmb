@@ -11,7 +11,7 @@
 </div>
 
 
-### 🌱 I’m currently learning **Data Engineering**
+### 🌱 I’m currently learning **UI/UX**
 
 ### 💬 Ask me about GenAI , Machine Learning , Deep Learning , Natural Language Processing , Computer Vision , SQL , Python  
 
