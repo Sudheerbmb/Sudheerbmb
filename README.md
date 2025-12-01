@@ -33,7 +33,7 @@
   <a href="mailto:sudheermsdvk@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-     <a href="https://sudheer-port-folio.vercel..app/" target="_blank" rel="noreferrer">
+     <a href="" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-6F42C1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
